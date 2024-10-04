@@ -17,10 +17,9 @@ candLst ={}
 print(candLst)
 
 
-# Winning Candidate(s) and Winning Count Tracker (in event of a tie)
+# Winning Candidate and Winning Count Tracker 
 canName =""
 winner = ""
-multWins = [] 
 winnerVoteCount = 0
 
 
